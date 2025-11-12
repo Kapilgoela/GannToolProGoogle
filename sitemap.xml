@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.ganntoolpro.com/</loc>
+    <lastmod>2024-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.ganntoolpro.com/#/compare-tools</loc>
+    <lastmod>2024-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ganntoolpro.com/#/blog</loc>
+    <lastmod>2024-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.ganntoolpro.com/#/tradingview</loc>
+    <lastmod>2024-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/trend</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/momentum</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/volume</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/volatility</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/pattern</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tradingview/custom</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  
+  <!-- Gann Tools -->
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-square-of-9-calculator</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-square-of-9-calculator</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-fan-tool</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-fan-tool</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-wheel-square-of-144</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-wheel-square-of-144</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-emblem</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-emblem</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-angle-calculator</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-angle-calculator</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-date-time-predictor</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-date-time-predictor</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-swing-chart-tool</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-swing-chart-tool</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/tools/gann-grid-overlay</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.ganntoolpro.com/#/blog/gann-grid-overlay</loc><lastmod>2024-10-26</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+</urlset>
